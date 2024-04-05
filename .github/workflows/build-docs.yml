@@ -12,7 +12,7 @@ permissions:
 
 env:
   INSTANCE: 'docs/hi'
-  ARTIFACT: 'webHelHI2-all.zip'
+  ARTIFACT: 'webHelpHI2-all.zip'
   DOCKER_VERSION: '233.14938'
 
 jobs:
@@ -49,7 +49,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: docs
-          path: artifacts
+
 
       - name: Unzip artifact
         run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
