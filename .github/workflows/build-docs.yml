@@ -11,8 +11,8 @@ permissions:
 
 
 env:
-  INSTANCE: 'docs/hi'
-  ARTIFACT: 'webHelpHI2-all.zip'
+  INSTANCE: 'docs/dpw'
+  ARTIFACT: 'webHelpDPW2-all.zip'
   DOCKER_VERSION: '233.14938'
 
 jobs:

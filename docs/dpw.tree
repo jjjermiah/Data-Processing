@@ -2,9 +2,10 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi"
-                 name="Help Instance"
-                 start-page="Fundamentals-of-a-data-processing-pipeline.md">
+<instance-profile id="dpw"
+                 name="Data Processing Workflows"
+                 start-page="Overview.md">
 
+    <toc-element topic="Overview.md"/>
     <toc-element topic="Fundamentals-of-a-data-processing-pipeline.md" accepts-web-file-names-ref="5efca888"/>
 </instance-profile>

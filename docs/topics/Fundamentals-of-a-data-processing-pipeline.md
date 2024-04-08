@@ -10,18 +10,6 @@ as it demonstrates it is technically possible to process the data without interv
 ## Re-use existing code, tools, containers, and other assets
 - chances are someone else has already tackled a similar problem, and you may be able to reuse/augment their work
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Sources used in writing this document:
 
 [Ten Simple Rules for large-scale data processing](https://terra.bio/ten-simple-rules-4-automate-your-workflows/)
