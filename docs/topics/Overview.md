@@ -1,8 +1,6 @@
 # Overview
 
-## What is product/service/concept
-
-This is a set of guidelines, tutorials, and standards I follow for my pipelines.
+This is a set of guidelines, tutorials, and standards to follow for pipelines.
 
 Documentation is built using [JetBrains Writerside](https://www.jetbrains.com/help/writerside/)
 
@@ -37,4 +35,3 @@ Repository
 
 README
 : A file that contains information about the repository. This could include instructions on how to run the pipeline, information about the data used in the pipeline, or any other information that is relevant to the pipeline.
-
