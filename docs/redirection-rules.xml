@@ -10,4 +10,58 @@
         <description>Created after removal of "This is the first topic" from Help Instance</description>
         <accepts>Default-topic.html</accepts>
     </rule>
+    <rule id="5a88d8a">
+        <description>Created after removal of "What is FastQC and why is it important?" from Data Processing Workflows
+        </description>
+        <accepts>FastQC.html</accepts>
+    </rule>
+    <rule id="7dd4e199">
+        <description>Created after removal of "What is WES?" from Data Processing Workflows</description>
+        <accepts>WES (Whole Exome Sequencing).html</accepts>
+    </rule>
+    <rule id="6d685320">
+        <description>Created after removal of "What is WGS?" from Data Processing Workflows</description>
+        <accepts>WGS (Whole Genome Sequencing).html</accepts>
+    </rule>
+    <rule id="16ff71fe">
+        <description>Created after removal of "What are FASTQ files?" from Data Processing Workflows</description>
+        <accepts>FASTQ.html</accepts>
+    </rule>
+    <rule id="a93ae51">
+        <description>Created after removal of "What is MultiQC?" from Data Processing Workflows</description>
+        <accepts>MultiQC.html</accepts>
+    </rule>
+    <rule id="3e5a4928">
+        <description>
+            <![CDATA[Created after removal of "<CRAM (Compressed SAM).md>" from Data Processing Workflows]]></description>
+        <accepts>CRAM (Compressed SAM).html</accepts>
+    </rule>
+    <rule id="7bd2593c">
+        <description>Created after removal of "Sequence Read Archive" from Data Processing Workflows</description>
+        <accepts>SRA (Sequence Read Archive).html</accepts>
+    </rule>
+    <rule id="2ffd8c82">
+        <description>Created after removal of "What is FASTQ Processing and why is it important? 3 sentences" from Data
+            Processing Workflows
+        </description>
+        <accepts>FASTQ Processing.html</accepts>
+    </rule>
+    <rule id="7d4aba6">
+        <description>
+            <![CDATA[Created after removal of "<BAM to FASTQ.md>" from Data Processing Workflows]]></description>
+        <accepts>BAM to FASTQ.html</accepts>
+    </rule>
+    <rule id="22b38fd2">
+        <description>
+            <![CDATA[Created after removal of "<BCF (Binary Call Format).md>" from Data Processing Workflows]]></description>
+        <accepts>BCF (Binary Call Format).html</accepts>
+    </rule>
+    <rule id="6e782f3e">
+        <description>Created after removal of "Using Docker" from Data Processing Workflows</description>
+        <accepts>SRA-toolkit.html</accepts>
+    </rule>
+    <rule id="73fff77f">
+        <description><![CDATA[Created after removal of "<GTF & GFF.md>" from Data Processing Workflows]]></description>
+        <accepts><![CDATA[GTF & GFF.html]]></accepts>
+    </rule>
 </rules>

@@ -8,4 +8,15 @@
 
     <toc-element topic="Overview.md"/>
     <toc-element topic="Fundamentals-of-a-data-processing-pipeline.md" accepts-web-file-names-ref="5efca888"/>
+    <toc-element topic="Genomic_Filetypes.md">
+        <toc-element topic="FASTQ.md"/>
+        <toc-element topic="idat-files.md"/>
+        <toc-element topic="CEL-Files.md"/>
+        <toc-element topic="Binary-Call-Format-BCF.md"/>
+        <toc-element topic="Variant-Call-Format-VCF.md">
+            <toc-element topic="VCF-to-RangedSummarizedExperiment.md"/>
+        </toc-element>
+        <toc-element topic="Mutation-Annotation-Format-MAF.md"/>
+        <toc-element topic="GTF-and-GFF-Files.md"/>
+    </toc-element>
 </instance-profile>
